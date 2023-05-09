@@ -50,7 +50,7 @@ Now, the project is running on port 3000.
 
 ## Authors
 
-- G Sudarrshan [[Resume](link), [LinkedIn](link)]
-- D Pravallika [[Resume](link), [LinkedIn](link)]
-- P Nivas [[Resume](link), [LinkedIn](link)]
-- C Joycika [[Resume](link), [LinkedIn](link)]
+- G Sudarrshan [[Resume](https://drive.google.com/file/d/1ybMg2w-lgz_Hsz0-ecMsao5wkTvgyvHH/view?usp=sharing), [LinkedIn](https://www.linkedin.com/in/gundasudarrshan/)]
+- D Pravallika [[Resume](link), [LinkedIn](http://www.linkedin.com/in/pravalika-dulla-638ba3238)]
+- P Nivas [[Resume](link), [LinkedIn](https://www.linkedin.com/in/nivas-reddy-45b382204)]
+- C Joycika [[Resume](link), [LinkedIn](https://www.linkedin.com/in/joycy-ikya-chakram-565712238)]
