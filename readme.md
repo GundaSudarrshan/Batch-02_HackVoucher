@@ -15,7 +15,7 @@ Make sure you have node installed on your system. If not, follow the steps [here
 - Clone project using git clone
 
   ```
-   https://github.com/GundaSudarrshan/Hackvocher-Final-Year-Project-demo.git
+   https://github.com/GundaSudarrshan/Batch-02_HackVoucher.git
   ```
 
 - Update npm packages
